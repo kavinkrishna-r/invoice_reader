@@ -1,0 +1,1 @@
+Get Gemini API key from maker suite
